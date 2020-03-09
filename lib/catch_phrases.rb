@@ -8,6 +8,6 @@ def toadstool
   puts status
 end
 
-def link_to_remote
+def link
   puts "It's Dangerous To Go Alone! Take This."
 end
